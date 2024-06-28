@@ -15,7 +15,7 @@
 
 ### 快速导航
 | 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=19/>iOS<img width=19/>   | <img width=3/>Android<img width=3/> | <img width=7/>路由器<img width=7/> |
-|---------------------|---------|-------|-------|-----|---------|-----|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian)   |         |       |       |     | ✔       |     |
 | [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian)   | ✔       | ✔     | ✔     |     |         |     |
 | [Clsah Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian)         | ✔       | ✔     | ✔     |     |         |     |
@@ -43,14 +43,15 @@
 ## 极具性价比的机场推荐 稳定线路，量大实惠
 
 ### 1. KooDog机场
-提供稳定的中转节点，还有IPLC游戏线路，简单的套餐，非常不错的流媒体解锁，支持4端APP傻瓜式使用。
+小众机场，提供稳定的中转节点服务，还有IPLC游戏线路，简单的套餐，非常不错的流媒体解锁，支持4端APP傻瓜式使用。
 #### KooDog官网
-[KooDog最新官网](https://www.kdcloud.uk/)
+[KooDog最新官网](https://www.kdcloud.uk/#/login?code=7G2kngAH)
 #### KooDog套餐价格
 KooDog|每月流量|月付|季付|半年付|年付|重置流量
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
-Basic|200G|10|30|60|120|8折
-Pro|500G|20|60|120|240|8折
-不限时|100G用完为止|30|-|-|-|8折
+Basic|200|10|30|60|120|8折
+Pro|500|20|60|120|240|8折
+不限时|100G 用完为止|30|-|-|-|8折
 #### KooDog机场测试全量测速+流媒体
-![KooDog-fullspeed]
+![KooDog-fullspeed](https://private-user-images.githubusercontent.com/174081166/344075447-f58bb78f-61dd-4637-b595-df3192248f28.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1NjAwMzQsIm5iZiI6MTcxOTU1OTczNCwicGF0aCI6Ii8xNzQwODExNjYvMzQ0MDc1NDQ3LWY1OGJiNzhmLTYxZGQtNDYzNy1iNTk1LWRmMzE5MjI0OGYyOC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyOFQwNzI4NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZjM5NTMxYWQwZDEyNDcyNDBmZjE4ZGQ5YzczYjlhNjA4ODNmYWNmMWM4NGI2ZGQ1YzM2NDMwM2U1MWZlZDRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.0tGEBFU1fAm9qorcrloWiETSo0vAqEC_TZtnheBCm0k)
+![KooDog-fullspeed](https://private-user-images.githubusercontent.com/174081166/344075456-3212dd90-cee4-4910-958f-3a0b2da7faeb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1NjAwMzQsIm5iZiI6MTcxOTU1OTczNCwicGF0aCI6Ii8xNzQwODExNjYvMzQ0MDc1NDU2LTMyMTJkZDkwLWNlZTQtNDkxMC05NThmLTNhMGIyZGE3ZmFlYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyOFQwNzI4NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNTljYWM5Mzg4ODJhMzI1ZDM0MGYyNDQyMjNmYTQyZDcwMWE2YmE1Zjk3MDQwOWFmOWZlZjFhYzYzMjViYjJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Cf5L5CfHqCA9ikm8LfzK6WJFTjYG9XXi_rcDAnZr7G8)
